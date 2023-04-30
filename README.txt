@@ -1,0 +1,1 @@
+Landing page of a store selling computers and accessories. I "animated" it using JavaScript, video and graphic elements. Basic search engine optimization on this page. A little later I will optimize it for mobile devices as well
